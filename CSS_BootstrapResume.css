@@ -1,0 +1,76 @@
+
+.row {
+    padding: 1%;
+    margin: 2.5%;
+    
+}
+
+.row1 {
+    padding: 0%;
+    margin: 2.5%;
+}
+
+.row2 {
+    padding: 0%;
+    margin: 2.5%;
+}
+
+.alerttext0 {
+    height: 50%;
+    background-color: rgb(28, 127, 241);
+    color: white;
+    padding: 4%;
+    border-radius: 5px;
+}
+
+.alerttext1 {
+    height: 6%;
+    background-color: rgb(181, 233, 203);
+    padding: 4%;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.alerttext2 {
+    height: 50%;
+    background-color: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    padding: 4%;
+    border-radius: 5px;
+}
+
+.p {
+    text-align: left;
+    font-weight: 500;
+}
+
+.list-group-item {
+    width: 100%;
+    height: 2%;
+    border-radius: 5px;
+}
+
+.badge {
+    border-radius: 100px;
+    background-color: rgb(28, 127, 241);
+    float: right;
+}
+
+.card {
+    margin: 1%;
+    display: flex;
+}
+
+.card-header {
+
+    display: flex;
+}
+
+.card-title {
+    display: flex;
+}
+
+.card-img-top {
+    height: 350;
+    width: 150;
+}

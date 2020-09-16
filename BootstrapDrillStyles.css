@@ -1,0 +1,9 @@
+.container {
+    height: 570px;
+    background-color: rgb(28, 159, 241);
+    padding: 4%;
+}
+
+.row {
+    padding: 1%;
+}
