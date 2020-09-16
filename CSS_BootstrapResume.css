@@ -2,7 +2,6 @@
 .row {
     padding: 1%;
     margin: 2.5%;
-    
 }
 
 .row1 {
@@ -59,18 +58,12 @@
 .card {
     margin: 1%;
     display: flex;
-}
+} */
 
-.card-header {
-
+ .card-header {
     display: flex;
 }
 
 .card-title {
     display: flex;
-}
-
-.card-img-top {
-    height: 350;
-    width: 150;
 }
